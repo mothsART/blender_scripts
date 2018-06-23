@@ -1,0 +1,2 @@
+blender --debug-python -P poly.py
+
